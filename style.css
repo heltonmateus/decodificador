@@ -1,0 +1,61 @@
+* {
+    background: #E5E5E5;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.logo {
+    margin-left: 10px;
+    padding-top: 10px;
+    width:2%;
+}
+
+main {
+    display: flex;
+    
+}
+
+.text-area {
+    border: none;
+    margin-top: 90px;
+    text-align: center;
+}
+
+.mensagem {
+    border-radius: 24px;
+    margin-left: 98px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: fixed;
+}
+.mensagem:focus {
+    outline: none;
+}
+
+.botoes {
+    display: flex;
+    margin-top: 18px;
+}
+
+.btn-desencriptar {
+    background: #495057;
+    color: white;
+    cursor: pointer;
+    height: 67px;
+    margin-left: 30px;
+    width: 328px;
+}
+
+.btn-encriptar {
+    background-color: #495057;
+    color: white;
+    cursor: pointer;
+    height: 67px;
+    width: 328px;
+}
+
+
+
+
